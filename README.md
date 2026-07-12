@@ -61,4 +61,6 @@
 
 ## 🌐 Connect With Me
 
-GitHub: https://github.com/vardhan-kadali
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/vardhan-kadali)
+
+[![Followers](https://img.shields.io/github/followers/vardhan-kadali?style=for-the-badge&label=Follow)](https://github.com/vardhan-kadali?tab=followers)
