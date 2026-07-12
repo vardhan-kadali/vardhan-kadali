@@ -12,13 +12,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vardhan-kadali)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan-kadali&layout=compact)
+
 
 ![Followers](https://img.shields.io/github/followers/vardhan-kadali?label=Followers&style=for-the-badge)
 
 ![Stars](https://img.shields.io/github/stars/vardhan-kadali?affiliations=OWNER&style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vardhan-kadali&style=for-the-badge)
 
 ---
 
