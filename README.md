@@ -1,25 +1,64 @@
 # Hi, I'm Vardhan 👋
 
-I'm a first-year B.Tech CSE student at SRM University AP.
+🎓 First-Year B.Tech CSE Student at SRM University AP
 
-Currently, I'm learning Python, Data Structures & Algorithms, and exploring Artificial Intelligence.
+💻 Open Source Contributor | Python Learner | Quantum Computing Enthusiast
 
-My main interest is Quantum Computing, and I enjoy participating in hackathons, building projects, and learning new technologies.
+---
 
-## What I'm working on
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardhan-kadali&show_icons=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vardhan-kadali)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vardhan-kadali&layout=compact)
+
+![Followers](https://img.shields.io/github/followers/vardhan-kadali?label=Followers&style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/vardhan-kadali?affiliations=OWNER&style=for-the-badge)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vardhan-kadali&style=for-the-badge)
+
+---
+
+## 🚀 Current Focus
+
 - Open Source Contributions
 - Python Development
-- AI Projects
-- Quantum Computing Projects
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Quantum Computing
 
-## Projects
+---
+
+## 🛠️ Projects
+
 - RoadSOS
 - ImpactForge
 - SHITAL-Q
 - Quantum Expo
 - Portfolio Website
 
-## Goal for 2026
-Make meaningful contributions to open-source projects and prepare for programs like GSoC.
+---
 
-GitHub: github.com/vardhan-kadali
+## 🏆 Open Source
+
+- Multiple merged Pull Requests
+- Active GitHub contributor
+- Working toward GSoC participation
+
+---
+
+## 🎯 Goals
+
+- Contribute to impactful open-source projects
+- Strengthen DSA and Python skills
+- Build AI and Quantum Computing projects
+- Become a strong software engineer
+
+---
+
+## 🌐 Connect With Me
+
+GitHub: https://github.com/vardhan-kadali
