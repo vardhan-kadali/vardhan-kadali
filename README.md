@@ -6,20 +6,7 @@
 
 ---
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vardhan-kadali&show_icons=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vardhan-kadali)
-
-
-
-![Followers](https://img.shields.io/github/followers/vardhan-kadali?label=Followers&style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/vardhan-kadali?affiliations=OWNER&style=for-the-badge)
-
-
----
 
 ## 🚀 Current Focus
 
