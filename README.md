@@ -1,6 +1,6 @@
 # Hi, I'm Vardhan 👋
 
-🎓 First-Year B.Tech CSE Student at SRM University AP
+🎓 2nd-Year B.Tech CSE Student at SRM University AP
 
 💻 Open Source Contributor | Python Learner | Quantum Computing Enthusiast
 
